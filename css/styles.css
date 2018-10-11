@@ -2,3 +2,49 @@
   width: 80%;
   margin-right: 2%;
 }
+
+.col1-color{
+  background-color: #cedff2;
+  height: 20%;
+  border: 1px solid #a9cbf2;
+  padding: 1%;
+}
+
+.head1-color{
+    background-color: #a9cbf2;
+    font: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+.col2-color{
+  background-color: #cef2e0;
+  height: 20%;
+  border: 1px solid #82f2ba;
+  padding: 1%;
+}
+
+.head2-color{
+    background-color: #82f2ba;
+    font: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+.col3-color{
+  margin-top: 20px;
+  background-color: #ebe3f7;
+  height: 20%;
+  border: 1px solid #ddcef2;
+  padding: 0.5%;
+}
+
+.head3-color{
+    background-color: #ddcef2;
+    font: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
